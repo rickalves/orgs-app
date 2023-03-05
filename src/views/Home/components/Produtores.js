@@ -12,7 +12,6 @@ export default function Produtores({topo: Topo}){
         const produtores = carregaProdutores();
         setTitulo(produtores.titulo);
         setLista(produtores.lista);
-        console.log(produtores.lista)
     }, []);
 
     const TopoLista = () => <Text style={estilos.topo}>{ titulo }</Text>;
