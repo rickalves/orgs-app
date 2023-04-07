@@ -12,7 +12,7 @@ Esse é um aplicativo de produtos organicos!🥦🥬
 ![](https://github.com/rickalves/orgs-app/blob/main/src/assets/logo.png?text=imagem+lindona+do+meu+projeto#vitrinedev)
 
 ## Detalhes do projeto
-![](https://img.shields.io/badge/status-em-desenvolvimento-brightgreen)
+![](https://img.shields.io/badge/status-Em_desenvolvimento-brightgreen)
 ![GitHub commit activity (branch)](https://img.shields.io/github/commit-activity/w/rickalves/orgs-app/main?color=gree)
 ![GitHub repo size](https://img.shields.io/github/repo-size/rickalves/orgs-app?color=sucess)
 
